@@ -1,6 +1,6 @@
 import os
 import pytube
-from youtubesearchpython import VideosSearch
+from youtube-search-python import VideosSearch
 import requests
 import tempfile
 import logging
