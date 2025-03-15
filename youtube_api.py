@@ -1,10 +1,9 @@
 import os
 import pytube
-from youtube-search-python import VideosSearch
+from youtubesearchpython import VideosSearch  # Correction de la syntaxe d'importation
 import requests
 import tempfile
 import logging
-import shutil
 from urllib.parse import urlparse, parse_qs
 
 # Configuration du logging
